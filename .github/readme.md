@@ -1,4 +1,6 @@
 # [Drone](https://www.drone.io/) <img src="https://github.com/drone/brand/blob/master/screenshots/screenshot_build_success.png" style="max-width:100px;" />
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksatchit%2Fdrone.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksatchit%2Fdrone?ref=badge_shield)
+
 **Welcome to the Drone codebase, we are thrilled to have you here!** 
 
 ## What is Drone?
@@ -115,3 +117,7 @@ docker run -it --rm -v "$(pwd)":/usr/local/src/your-app githubchangeloggenerator
 Create your pull request for the release. Get it merged then tag the release.
 
 [⬆ Back to Top](#table-of-contents)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksatchit%2Fdrone.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksatchit%2Fdrone?ref=badge_large)
